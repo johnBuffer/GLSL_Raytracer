@@ -1,6 +1,7 @@
 # GLSL_Raytracer
 
 Realtime raytracer using GLSL fragment shader.
+![Raytracer](https://github.com/johnBuffer/GLSL_Raytracer/blob/master/img/image.png)
 
 # Usage
 
